@@ -22,7 +22,7 @@ Título do projeto
 
 **Tecnologias utilizadas:** VSCode, HTML e CSS
 
-**Link do site publicado:**
+**Link do site publicado:** <a href="https://ms-saas.github.io/Projeto-Agenda-15-DSI/"> Aqui! </a>
 
 **Explicação do funcionamento do projeto:** Esse projeto funciona com base de 5 diferentes arquivos ".html" que possuem conexões entre si, funcionando como diferentes páginas que contribuem para co-existência uma da outra. O "configs.css" é um estilizador universal para todas as páginas, onde criei as variáveis de estilo para qualquer modificador que eu pudesse usar nas páginas, assim, facilitando minha vida ao criar esse código por evitar que ele chegasse às milhares de linhas.
 
